@@ -5,8 +5,11 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Variables
+		* Variables are like containers which can hold values such as words or numbers. What's inside the container can be changed.
 	* Strings
+		* Strings are a collection of letters, numbers, or a combination of both inside quotation marks. Strings have lots of fun features that allow you to quickly find out information about them such as how long they are.
 	* Functions (arguments, `return`)
+		* Functions are reusuable lines of code which are named and can be called upon within a program. Arguments are variables which are given to the function for use. 
 	* `if` statements
 	* Boolean values (`true`, `false`)
 
