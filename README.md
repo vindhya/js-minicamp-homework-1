@@ -9,9 +9,11 @@
 	* Strings
 		* Strings are a collection of letters, numbers, or a combination of both inside quotation marks. Strings have lots of fun features that allow you to quickly find out information about them such as how long they are.
 	* Functions (arguments, `return`)
-		* Functions are reusuable lines of code which are named and can be called upon within a program. Arguments are variables which are given to the function for use. 
+		* Functions are reusuable lines of code which are named and can be called upon within a program. Arguments are variables which are given to the function for use. The `return` line of code makes it so that the function outputs the value of that line of code
 	* `if` statements
+		* `if` statements will cause certain lines of code to be executed if a specified statement is evaluated to true. They act as a branch in a program.
 	* Boolean values (`true`, `false`)
+		* The Boolean values only have two options: `true` or `false`.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
